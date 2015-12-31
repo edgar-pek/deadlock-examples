@@ -1,2 +1,0 @@
-# deadlock-examples
-Deadlock examples
